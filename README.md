@@ -1,7 +1,10 @@
 ### Hi there 👋
 [![kindpark's GitHub stats](https://github-readme-stats.vercel.app/api?username=kindpark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kindpark&langs_count=10&layout=compact&theme=dark)](https://github.com/kindpark/kindpark)﻿
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kindpark&langs_count=10&layout=compact&theme=dark)](https://github.com/kindpark/kindpark)
+
+[![CodeForces Profile](https://cf.leed.at?id=kpark)](https://codeforces.com/profile/kpark)
+
 <!--
 **kindpark/kindpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
